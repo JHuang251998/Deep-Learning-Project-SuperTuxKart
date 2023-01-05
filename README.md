@@ -2,7 +2,7 @@
 
 This was a project done for UT Austin's Deep Learning Course in Fall 2022. We discuss the approach we took for this project in this write up but have ommited the code to preserve integrity of the assignment.
 
-###### Team Members: Angelo Belmonte, Kuan Yin Huang, Sheyla Corral, Soumili Kole
+## Team Members: Angelo Belmonte, Kuan Yin Huang, Sheyla Corral, Soumili Kole
 
 # Introduction
 For the final project, our task is to program a SuperTuxKart ice-hockey player in a 2v2 game to play against an AI, or another player designed by either the instructors or other classmates. With our experience driving, playing similar video games, and physics, we were able to think of approaches to how we want to design our player agent’s controller. Our team approached this task by trying to let our players find the puck successfully as soon as possible and try to dribble the puck towards the opponent’s goal so that we would have a higher chance of scoring goals. We talk more about our approaches, ideas, and what we explored in the following sections of the write up.
